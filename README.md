@@ -4,7 +4,8 @@ This is an example projetct made with flutter, TO showcase some animations using
 
 ## Representation Video
 
-[![Watch the video](https://img.youtube.com/vi/-1O5KXZGRo8/maxresdefault.jpg)](https://youtu.be/-1O5KXZGRo8)
+![Video of the app](screenshots/video-gif.gif)
+
 
 ## Getting Started
 
