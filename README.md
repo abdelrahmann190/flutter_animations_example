@@ -5,14 +5,18 @@ This is an example projetct made with flutter, TO showcase some animations using
 ## Screenshots
 
 <p align="center">
-  <img src="Screenshots/4.jfif" width="300" />
-  <img src="Screenshots/3.jfif" width="300" />
+  <img src="Screenshots/screenshot1.jpg" width="300" />
+  <img src="Screenshots/screenshot2.jpg" width="300" />
 </p>
 
 <p align="center">
-  <img src="Screenshots/2.jfif" width="300" />
-  <img src="Screenshots/1.jfif" width="300" />
+  <img src="Screenshots/screenshot3.jpg" width="300" />
+  <img src="Screenshots/screenshot4.jpg" width="300" />
 </p>
+
+## Youtube vide
+
+[![Watch the video](https://img.youtube.com/vi/-1O5KXZGRo8/maxresdefault.jpg)](https://youtu.be/-1O5KXZGRo8)
 
 ## Getting Started
 
