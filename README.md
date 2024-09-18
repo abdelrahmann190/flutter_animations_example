@@ -2,10 +2,21 @@
 
 This is an example projetct made with flutter, TO showcase some animations using natiev capabilities and also 3rd pary packages.
 
+## Screenshots
+
+<p align="center">
+  <img src="Screenshots/4.jfif" width="300" />
+  <img src="Screenshots/3.jfif" width="300" />
+</p>
+
+<p align="center">
+  <img src="Screenshots/2.jfif" width="300" />
+  <img src="Screenshots/1.jfif" width="300" />
+</p>
+
 ## Representation Video
 
 ![Video of the app](screenshots/video-gif.gif)
-
 
 ## Getting Started
 
