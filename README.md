@@ -14,7 +14,7 @@ This is an example projetct made with flutter, TO showcase some animations using
   <img src="screenshots/screenshot4.jpg" width="300" />
 </p>
 
-## Youtube vide
+## Youtube video
 
 [![Watch the video](https://img.youtube.com/vi/-1O5KXZGRo8/maxresdefault.jpg)](https://youtu.be/-1O5KXZGRo8)
 
