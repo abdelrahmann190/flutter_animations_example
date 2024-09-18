@@ -14,10 +14,6 @@ This is an example projetct made with flutter, TO showcase some animations using
   <img src="Screenshots/1.jfif" width="300" />
 </p>
 
-## Representation Video
-
-![Video of the app](screenshots/video-gif.gif)
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
