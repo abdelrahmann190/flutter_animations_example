@@ -5,13 +5,13 @@ This is an example projetct made with flutter, TO showcase some animations using
 ## Screenshots
 
 <p align="center">
-  <img src="Screenshots/screenshot1.jpg" width="300" />
-  <img src="Screenshots/screenshot2.jpg" width="300" />
+  <img src="screenshots/screenshot1.jpg" width="300" />
+  <img src="screenshots/screenshot2.jpg" width="300" />
 </p>
 
 <p align="center">
-  <img src="Screenshots/screenshot3.jpg" width="300" />
-  <img src="Screenshots/screenshot4.jpg" width="300" />
+  <img src="screenshots/screenshot3.jpg" width="300" />
+  <img src="screenshots/screenshot4.jpg" width="300" />
 </p>
 
 ## Youtube vide
